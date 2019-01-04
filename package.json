@@ -30,8 +30,8 @@
     "nan": "^2.6.2"
   },
   "devDependencies": {
-    "mocha": "^1.21.4",
-    "should": "^4.0.4",
-    "jsdoc-to-markdown": "^3.0.0"
+    "jsdoc-to-markdown": "^3.0.0",
+    "mocha": "^5.2.0",
+    "should": "^4.0.4"
   }
 }
